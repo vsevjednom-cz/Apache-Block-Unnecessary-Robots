@@ -6,5 +6,7 @@ Block robots = better money from AdSense. AdSence thinks that robots are fake we
 Block IP addresses in Fail2ban works better and faster than only in iptables.
 
 apache-lj.conf = Fail2Ban
+
 apache2.conf = Apache
+
 jail.conf = Fail2Ban
